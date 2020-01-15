@@ -6,7 +6,7 @@
 1. [login to piplayer](#login-to-piplayer)
 
 
-### Purchase the Hardware
+### 1. Purchase the Hardware
 
 The following are the suggested components needed to assemble the piSignage Player.
 
@@ -23,14 +23,14 @@ https://www.canakit.com/raspberry-pi-4-starter-kit.html
 Reference: https://pisignage.com/homepage/documentation.html
 
 ---
-### Download piplayer Image
+### 2. Download piplayer Image
 
 https://pisignage.s3.amazonaws.com/pisignage-images/pisignage_2.6.1.img.zip
 
 Reference: https://github.com/colloqi/pisignage
 
 ---
-### Install
+### 3. Install
 
 check the disk drive you want to install in
 ```bash
@@ -45,7 +45,7 @@ sudo dd bs=1m if=pisignage_2.6.1.img of=/dev/disk2
 
 ---
 
-### login to piplayer
+### 4. login to piplayer
 
 Search for the piplayer on your Wifi network, then connect with it.
 
