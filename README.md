@@ -1,6 +1,10 @@
 # pisignage
 
-### Purchase the Hardware
+1. [Purchase the Hardware](#Purchase-the-Hardware)
+
+
+
+**Purchase the Hardware**
 
 The following are the suggested components needed to assemble the piSignage Player.
 
