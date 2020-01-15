@@ -2,7 +2,8 @@
 
 1. [Purchase the Hardware](#purchase-the-hardware)
 1. [Download piplayer Image](#download-piplayer-image)
-
+1. [Install](#install)
+1. [login to piplayer](#login-to-piplayer)
 
 
 ### Purchase the Hardware
