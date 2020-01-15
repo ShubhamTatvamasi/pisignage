@@ -1,7 +1,7 @@
 # pisignage
 
-1. [Purchase the Hardware](#purchase-the-hardware)
-1. [Download piplayer Image](#download-piplayer-image)
+1. [Purchase the Hardware](\#purchase-the-hardware)
+1. [Download piplayer Image](\#download-piplayer-image)
 
 
 
