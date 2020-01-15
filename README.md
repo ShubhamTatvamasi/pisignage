@@ -16,6 +16,10 @@ The following are the suggested components needed to assemble the piSignage Play
 1. Good quality HDMI cable (CEC supported)
 1. LAN cable or Pi compatible USB wi-fi adapters if wifi is not built-in
 
+Pi 4 1GB Starter Kit - 32GB - $79.95
+
+https://www.canakit.com/raspberry-pi-4-starter-kit.html
+
 Reference: https://pisignage.com/homepage/documentation.html
 
 ---
