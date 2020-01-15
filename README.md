@@ -1,6 +1,6 @@
 # pisignage
 
-1. [Purchase the Hardware](#1.-purchase-the-hardware)
+1. [Purchase the Hardware](#1-purchase-the-hardware)
 1. [Download piplayer Image](#download-piplayer-image)
 1. [Install](#install)
 1. [login to piplayer](#login-to-piplayer)
