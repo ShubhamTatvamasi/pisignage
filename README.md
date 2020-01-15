@@ -1,6 +1,7 @@
 # pisignage
 
 1. [Purchase the Hardware](#Purchase-the-Hardware)
+1. [Download piplayer Image](#Download-piplayer-Image)
 
 
 
@@ -17,7 +18,7 @@ The following are the suggested components needed to assemble the piSignage Play
 Reference: https://pisignage.com/homepage/documentation.html
 
 ---
-### Download piplayer Image
+**Download piplayer Image**
 
 https://pisignage.s3.amazonaws.com/pisignage-images/pisignage_2.6.1.img.zip
 
