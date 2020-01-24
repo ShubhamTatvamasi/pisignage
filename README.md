@@ -32,9 +32,9 @@ Reference: https://github.com/colloqi/pisignage
 ---
 ### 3. Install
 
-check the disk drive you want to install in
+check the disk drive you want to install in using:
 ```bash
-df -h
+diskutil list
 ```
 > connect your sd card before checking drives
 
