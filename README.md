@@ -32,16 +32,22 @@ Reference: https://github.com/colloqi/pisignage
 ---
 ### 3. Install
 
-check the disk drive you want to install in using:
-```bash
-diskutil list
-```
-> connect your sd card before checking drives
+- **For Mac**
 
-rip image to SD card:
-```bash
-sudo dd bs=1m if=pisignage_2.6.1.img of=/dev/disk2
-```
+  check the disk drive you want to install in using:
+  ```bash
+  diskutil list
+  ```
+  > connect your sd card before checking drives
+
+  rip image to SD card:
+  ```bash
+  sudo dd bs=1m if=pisignage_2.6.1.img of=/dev/disk2
+  ```
+
+- **For Windows**
+
+  Use [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/) utility in administator mode.
 
 ---
 
